@@ -18,6 +18,9 @@ nav {
   text-decoration: none;
   color: black;
 }
+.logo:hover {
+  color: black;
+}
 
 .sa {
   font-size: 48px;
