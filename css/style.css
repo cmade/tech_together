@@ -1,0 +1,73 @@
+.img1 {
+  width: 700px;
+  height: 500px;
+  margin-left: -75px;
+}
+
+nav {
+  font-size: 28px;
+}
+
+.logo1 {
+  font-size: 28px;
+  text-decoration: none;
+}
+.logo {
+  font-size: 33px;
+  margin-top: 2px;
+  text-decoration: none;
+  color: black;
+}
+
+.sa {
+  font-size: 48px;
+  color: rgba(0, 159.38, 159.38, 1);
+}
+.sp {
+  font-size: 38px;
+  color: rgba(0, 159.38, 159.38, 1);
+}
+
+body {
+  font-family: poppins;
+}
+
+.bt {
+  background-color: rgba(71.19, 69.41, 69.41, 1);
+  border-radius: 5px;
+  padding-left: 11px;
+  padding-right: 11px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 367px;
+  height: 75px;
+  font-size: 31px;
+  line-height: 145.37%;
+  text-align: center;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+.img2 {
+  width: 400px;
+  margin-left: 100px;
+  box-shadow: -10px 9px 4px rgba(0, 0, 0, 0.25);
+}
+.img3 {
+  width: 900px;
+  height: 340px;
+  margin-left: -70px;
+}
+.img4 {
+  width: 400px;
+  height: 440px;
+  margin-left: 100px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  box-shadow: -10px 9px 4px rgba(0, 0, 0, 0.25);
+}
